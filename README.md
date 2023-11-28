@@ -1,12 +1,13 @@
 # How to install and run Stable Video on a Mac
 
-![comfymac.gif](comfymac.gif)
-
-I will explain 3 ways to install and run Stable Video on a Mac using ComfyUI.
+This document explains everything you need to know about installing and running Stable Video on a Mac, with [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
 
 1. Manual Install
 2. One Click Install
 3. Running on Intel Macs
+
+
+![comfymac.gif](comfymac.gif)
 
 ## 1. Manual Install
 
