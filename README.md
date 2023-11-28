@@ -2,26 +2,11 @@
 
 I will explain 3 ways to install and run Stable Video on a Mac using ComfyUI.
 
-1. One Click Install
-2. Manual Install
+1. Manual Install
+2. One Click Install
 3. Running on Intel Macs
 
-## 1. One Click Install
-
-The easiest way to install is by installing from [Pinokio](https://pinokio.computer), a FREE and open source project for browsing and installing various AI projects, such as Stable Diffusion, Text Generation WebUI, Facefusion, and so on.
-
-Just Download Pinokio and install ComfyUI from this link: https://pinokio.computer/item?uri=https://github.com/cocktailpeanut/comfyui.pinokio (or you can find on Pinokio's discover page).
-
-To learn more,
-
-Read the following thread: https://x.com/cocktailpeanut/status/1728075614807048208?s=20
-
-Or watch the Youtube video:
-
-[![Youtube](youtube.png)](https://www.youtube.com/watch?v=37_DzIG0Ows)
-
-
-## 2. Manual Install
+## 1. Manual Install
 
 You can also install ComfyUI in a terminal on your mac.
 
@@ -59,6 +44,23 @@ Finally, load a video workflow into ComfyUI.
 There are many ways to do this, but the most basic way is to drag and drop the image (which embeds the workflow) into the ComfyUI interface https://raw.githubusercontent.com/comfyanonymous/ComfyUI_examples/master/video/image_to_video.webp
 
 Now you're set to go!
+
+## 2. One Click Install
+
+What if I told you, all of the above can be automated with one click, without ever touching the terminal?
+
+The easiest way to install is by installing from [Pinokio](https://pinokio.computer), a free and open source AI browser that lets you browse, install, and run all kinds of AI projects, such as Stable Diffusion, Text Generation WebUI, Facefusion, and so on.
+
+To install ComfyUI to support Stable Video, just get Pinokio and install ComfyUI from this link: https://pinokio.computer/item?uri=https://github.com/cocktailpeanut/comfyui.pinokio (or you can find on Pinokio's discover page).
+
+To learn more,
+
+Read the following thread: https://x.com/cocktailpeanut/status/1728075614807048208?s=20
+
+Or watch the Youtube video:
+
+[![Youtube](youtube.png)](https://www.youtube.com/watch?v=37_DzIG0Ows)
+
 
 ## 3. Running on Intel Macs
 
