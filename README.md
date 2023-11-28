@@ -64,7 +64,7 @@ Or watch the Youtube video:
 
 ## 3. Running on Intel Macs
 
-This is not really recommended since it's too slow (Takes hours to generate a single image), but I will share just for the sake of completeness:
+This is not really recommended since it's too slow (Takes hours to generate a single video), but I will share just for the sake of completeness:
 
 ### Running Manually
 
