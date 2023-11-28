@@ -12,6 +12,8 @@ Let's first take a look at how to install ComfyUI in a way that supports Stable 
 
 First, open your terminal and install ComfyUI with a custom torch.
 
+> This custom torch install from git is needed in order to support Conv3D for MPS (https://github.com/pytorch/pytorch/pull/114183)
+
 ```
 # download comfyui
 git clone https://github.com/comfyanonymous/ComfyUI
