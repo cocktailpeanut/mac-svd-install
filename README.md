@@ -8,7 +8,7 @@ I will explain 3 ways to install and run Stable Video on a Mac using ComfyUI.
 
 ## 1. Manual Install
 
-You can also install ComfyUI in a terminal on your mac.
+Let's first take a look at how to install ComfyUI in a way that supports Stable Video, on your Mac.
 
 First, open your terminal and install ComfyUI with a custom torch.
 
