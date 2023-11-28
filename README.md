@@ -53,7 +53,7 @@ Now you're set to go!
 
 What if I told you, all of the above can be automated with one click, without ever touching the terminal?
 
-The easiest way to install is by installing from [Pinokio](https://pinokio.computer), a free and open source AI browser that lets you browse, install, and run all kinds of AI projects, such as Stable Diffusion, Text Generation WebUI, Facefusion, and so on.
+The easiest way to install is by using [Pinokio](https://pinokio.computer), **a free and open source AI browser that lets you browse, install, and run all kinds of AI projects** such as Stable Diffusion, Text Generation WebUI, Facefusion, and so on.
 
 To install ComfyUI to support Stable Video, just get Pinokio and install ComfyUI from this link: https://pinokio.computer/item?uri=https://github.com/cocktailpeanut/comfyui.pinokio (or you can find on Pinokio's discover page).
 
